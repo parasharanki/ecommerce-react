@@ -4,4 +4,6 @@ import {Store} from "./reduc/counter/store"
 
 
 
-ReactDom.createRoot(document.getElementById("root")).
+// ReactDom.createRoot(document.getElementById("root")).
+
+// ReactDom.createRoot(document.getElementById("root")).
